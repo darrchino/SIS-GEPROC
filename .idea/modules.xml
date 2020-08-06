@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SIS-GEPROC.iml" filepath="$PROJECT_DIR$/SIS-GEPROC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/SIS-GEPROC.client.iml" filepath="$PROJECT_DIR$/.idea/modules/client/SIS-GEPROC.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/SIS-GEPROC.server.iml" filepath="$PROJECT_DIR$/.idea/modules/server/SIS-GEPROC.server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/SIS-GEPROC.server.integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/server/SIS-GEPROC.server.integrationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/SIS-GEPROC.server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/server/SIS-GEPROC.server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/SIS-GEPROC.server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/server/SIS-GEPROC.server.test.iml" />
+    </modules>
+  </component>
+</project>
